@@ -1,0 +1,14 @@
+baseURL = "https://ubuntuupdate.com/"
+languageCode = "en-us"
+title = "Ubuntu Update"
+theme = "beautifulHugo"
+googleAnalytics = "UA-72190689-3"
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 6
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 7
