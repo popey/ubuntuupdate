@@ -12,3 +12,5 @@ googleAnalytics = "UA-72190689-3"
     url = "/contact/"
     name = "Contact"
     weight = 7
+
+disqusShortname = "ubuntu-update"
