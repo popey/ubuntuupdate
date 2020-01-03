@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Ubuntu Update"
 theme = "beautifulHugo"
 googleAnalytics = "UA-72190689-3"
+disqusShortname = "ubuntu-update"
+
 [[menu.main]]
     url = "/about/"
     name = "About"
@@ -13,4 +15,3 @@ googleAnalytics = "UA-72190689-3"
     name = "Contact"
     weight = 7
 
-disqusShortname = "ubuntu-update"
