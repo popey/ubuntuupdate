@@ -1,9 +1,13 @@
 baseURL = "https://ubuntuupdate.com/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Ubuntu Update"
 theme = "beautifulHugo"
 googleAnalytics = "UA-72190689-3"
 disqusShortname = "ubuntu-update"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[author]
+    name = "Alan Pope"
 
 [[menu.main]]
     url = "/about/"
@@ -14,4 +18,9 @@ disqusShortname = "ubuntu-update"
     url = "/contact/"
     name = "Contact"
     weight = 7
+
+[[menu.main]]
+    url = "/index.xml"
+    name = "RSS"
+    weight = 8
 
