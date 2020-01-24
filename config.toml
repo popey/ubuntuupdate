@@ -1,7 +1,7 @@
 baseURL = "https://ubuntuupdate.com/"
 languageCode = "en-gb"
 title = "Ubuntu Update"
-theme = "beautifulHugo"
+theme = "paper"
 googleAnalytics = "UA-72190689-3"
 disqusShortname = "ubuntu-update"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
