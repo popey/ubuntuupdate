@@ -21,3 +21,5 @@ All my content is licensed under the [Creative Commons BY SA 4.0](https://creati
 The Hugo framework and theme are copyright their respective authors.
 
 The VPS is hosted by [BitFolk](https://bitfolk.com/) who aren't sponsoring the site or content, but they're friends, and I like their services. If you're looking for a reliable VPS host, consider using [BitFolk](https://bitfolk.com/). Tell them I sent you. :)
+
+Support the costs associated with running this site via [ko-fi](http://ko-fi.com/popeydc) or [paypal](https://www.paypal.me/popey/5).
