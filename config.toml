@@ -1,21 +1,20 @@
-baseURL = "https://ubuntuupdate.com/"
-languageCode = "en-gb"
+baseURL = "https://ubuntuupdate.com"
 title = "Ubuntu Update"
+languageCode = "en-gb"
 theme = "paper"
-googleAnalytics = "UA-72190689-3"
-disqusShortname = "ubuntu-update"
+enableGitInfo = true
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 [author]
     name = "Alan Pope"
 
 [[menu.main]]
-    url = "/about/"
+    url = "/about"
     name = "About"
     weight = 6
 
 [[menu.main]]
-    url = "/contact/"
+    url = "/contact"
     name = "Contact"
     weight = 7
 
